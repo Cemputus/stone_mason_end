@@ -25,7 +25,6 @@ def steps():
     for i in range(4):
         move()
 
-
 def turn_side():
     for i in range(2):
         turn_left()
