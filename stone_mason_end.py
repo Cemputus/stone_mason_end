@@ -7,7 +7,6 @@ def main():
     turn_side()
     pick_all()
 
-
 def half():
     turn_left()
     for i in range(4):
