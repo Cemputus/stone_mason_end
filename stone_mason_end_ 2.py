@@ -32,6 +32,7 @@ def loop1():
         move()    
 
 
+        
 def chat():
     move()
     pick_beeper()
