@@ -20,6 +20,9 @@ def pick_move():
     move()
 
 
+    
+    
+    
 def steps():
     for i in range(4):
         move()
