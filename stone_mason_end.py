@@ -1,5 +1,6 @@
 from stanfordkarel import *
 
+
 def main():
     pick_all()
     steps()
