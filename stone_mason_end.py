@@ -13,7 +13,6 @@ def half():
         pick_move()
     pick_beeper()
     turn_left()
-
     
 def pick_move():
     pick_beeper()
