@@ -25,6 +25,7 @@ def pick_move():
     
     
     
+    
 def steps():
     for i in range(4):
         move()
