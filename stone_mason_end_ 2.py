@@ -5,7 +5,7 @@ def main():
     turn_left()
     loop1()
     gpt()
-    cen()    
+    cen()     
     turn_right()
     loop1()
     pick_beeper() 
