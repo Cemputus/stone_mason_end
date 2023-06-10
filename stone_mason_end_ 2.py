@@ -2,7 +2,7 @@ from stanfordkarel import *
 def main():
     gpt()
     cen() 
-    turn_left()  
+    turn_left()   
     loop1()
     gpt()   
     cen()       
