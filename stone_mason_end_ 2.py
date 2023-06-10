@@ -11,7 +11,7 @@ def main():
     pick_beeper()
     turn_right()
     cen()
-    turn_left()
+    turn_left() 
     loop1()
     gpt()
     cen()
