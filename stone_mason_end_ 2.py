@@ -8,7 +8,7 @@ def main():
     cen()   
     turn_right()
     loop1()
-    pick_beeper()
+    pick_beeper() 
     turn_right()
     cen()
     turn_left() 
