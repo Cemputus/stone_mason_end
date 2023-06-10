@@ -4,7 +4,7 @@ def main():
     cen()
     turn_left()
     loop1()
-    gpt()
+    gpt() 
     cen()     
     turn_right()
     loop1()
