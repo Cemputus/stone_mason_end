@@ -1,7 +1,7 @@
 from stanfordkarel import *
 def main():
     gpt()
-    cen()
+    cen() 
     turn_left()  
     loop1()
     gpt()   
