@@ -17,7 +17,7 @@ def main():
     cen() 
 
     
-
+ 
    
 def turn_right():
     for x in range(3):
