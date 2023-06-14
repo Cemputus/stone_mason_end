@@ -1,6 +1,6 @@
 from stanfordkarel import *
 def main():
-    gpt() 
+    gpt()  
     cen()    
     turn_left()   
     loop1()  
