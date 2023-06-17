@@ -6,7 +6,7 @@ def main():
     pick_all()
     steps()
     turn_side()
-    pick_all()
+    pick_all() 
    
       
     
