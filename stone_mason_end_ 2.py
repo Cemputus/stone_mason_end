@@ -14,7 +14,7 @@ def main():
     turn_left() 
     loop1()
     gpt()
-    cen()  
+    cen()   
 
     
  
