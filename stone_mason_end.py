@@ -7,7 +7,7 @@ def main():
     steps()
     turn_side()
     pick_all() 
-   
+    
         
     
 def half():
