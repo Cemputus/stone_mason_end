@@ -10,7 +10,7 @@ def main():
     
           
     
-def half():
+def half(): 
     turn_left()
     for i in range(4):
         pick_move()
