@@ -3,7 +3,7 @@ def main():
     gpt()  
     cen()       
     turn_left()    
-    loop1()   
+    loop1()    
     gpt()      
     cen()         
     turn_right()
